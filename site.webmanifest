@@ -1,0 +1,27 @@
+{
+    "name": "ISoW Shop",
+    "short_name": "ISoW",
+    "description": "Trusted 2b2t & DonutSMP Marketplace for kits, items, accounts and more",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary",
+    "lang": "en",
+    "categories": ["shopping", "games"],
+    "shortcuts": [
+        {
+            "name": "Shop",
+            "short_name": "Shop",
+            "description": "Visit our shop",
+            "url": "/shop"
+        },
+        {
+            "name": "Discord",
+            "short_name": "Discord",
+            "description": "Join our Discord",
+            "url": "/discord"
+        }
+    ]
+}
